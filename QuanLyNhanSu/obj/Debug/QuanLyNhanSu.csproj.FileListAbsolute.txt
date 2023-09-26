@@ -1,0 +1,16 @@
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormAddNewEmployee.resources
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormDepartment.resources
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEditEmployee.resources
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormLogin.resources
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormUser.resources
+D:\MyLearnCode\QTMT-C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormShowView.resources
